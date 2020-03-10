@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-
 <html>
-
 <title>상대경로와 절대경로에 대한 이해</title>
 
 <body>
