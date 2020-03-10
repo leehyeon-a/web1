@@ -21,7 +21,6 @@
 <p>상대경로</p>
 
   <a href="./smiley2.gif" download>
-
       <img src="./smiley2.gif" alt="Smiley face" width="42" height="42">
 
   </a>
