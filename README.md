@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<title>상대경로와 절대경로에 대한 이해</title>
 <head>
  <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-160858387-1"></script>
@@ -8,10 +7,9 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-160858387-1');
 </script>
-
+<title>상대경로와 절대경로에 대한 이해</title>
  </head>
 <body>
 
